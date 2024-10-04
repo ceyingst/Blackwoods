@@ -7,7 +7,6 @@
 - *A Catalogue of a Select and Valuable Collection of books, 1801* - Edinburgh: Printed for G&J. Ross for Ross and Blackwood
 - *An Inquiry into the Obligation of Religious Covenants Upon Posterity* - Edinburgh: Printed for Ross & Blackwood, by T. Ross and Sons
 - *An Introduction to the Study of the Animal Economy* - Edinburgh: Printed for Ross and Blackwood and Longman and Rees
-- *Religious intelligence abroad* - Edinburgh: Printed for G. & J. Ross for J. Fairbairn and Ross & Blackwood
 - *Religious Intelligence and seasonable advice from abroad* - Edinburgh; Printed by T. Ross and Sons for J. Fairbairn and Ross & Blackwood
 ## 1802
 - *A Comparative View of the Huttonian and Neptunian Systems of Geology* - Edinburgh: Printed for Ross and Blackwood, and T.N. Longman and G. Rees, London
