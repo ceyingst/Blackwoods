@@ -111,7 +111,6 @@
 - *A General history and collection of voyages and travels, Kerr (1811-1824, in 18 volumes)* -  London : printed for John Murray : Edinburgh : William Blackwood : Dublin : M.N. MahonEdinburgh : William Blackwood, et al., Edinburgh : George Ramsay and Company, Edinburgh : James Ballantyne and Co., London : A. & R. Spottiswoode, 1811-1824
 - *Ai Tou Aischylou Choephori* - Edinburgi : Blackwood, 1811; Edinburgi : E Prelo Academico : Veneunt apud Gulielmum Blackwood ; Londini : Apud Longman, Hurst, Rees, et Orme
 - *An Account of the past and present state of the Isle of Man* - London: Printed for Robert Baldwin; and Blackwood, Edinburgh
-- *An account of the past and present state of the Isle of Man* - London : printed for Robert Baldwin, and William Blackwood, Edinburgh, 1811
 - *An Attempt to Estimate the Increase of the Number of poor during the interval of 1785 and 1803* -  London: Printed for Murray; William Blackwood, Edinburgh; and M.N. Mahon, Dublin
 - *Bygane times, and the late come changes* - Edinburgh: Printed for Blackwood
 - *Defence of Abstract Currencies* -  London : Printed for John Murray ... W. Blackwood, Edinburgh, and M.N. Mahon, Dublin, 1811
