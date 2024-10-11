@@ -48,7 +48,7 @@ NB: entries marked with a dagger (†) are those for which I've seen and made a 
 
 ## 1805
 
-- * Jameson, *A treatise on the external characters of minerals* 
+- *Jameson, *A treatise on the external characters of minerals* 
 - *A mineralogical description of the county of Dumfries* - Edinburgh: Printed at the University Press, for Bell and Bradfute, and W. Blackwood; and Longman, Hurst, Reese, and Orme, London
 - *A System of Mineralogy, vol 2* - Edinburgh: Printed for Bell & Bradfute; Guthrie & Tait; and William Blackwood: and for Longman, Hurst, Rees and Orme, London. Printed by A. Neill & Co.
 - *An essay on the best means of civilizing the subjects of the British empire in India* - John Mitchell - Edinburgh: W. Blackwood [etc]
@@ -252,9 +252,9 @@ NB: entries marked with a dagger (†) are those for which I've seen and made a 
 
 ## 1816
 
-- * A system of heraldry, speculative and practical, a new ed.* - Alexander Nisbet, gent. - Edinburgh, Printed for W. Blackwood; [etc., etc.]
-- * Tales of my landlord (1st series)* - Walter Scott - Edinburgh, Printed for W. Blackwood and J. Murray
-- * Travels through Canada, and the United States of North America, in the years 1806, 1807, & 1808, 3rd ed* - John Lambert - London, Printed for Baldwin, Cradock, and Joy; Edinburgh, W. Blackwood
+- *A system of heraldry, speculative and practical, a new ed.* - Alexander Nisbet, gent. - Edinburgh, Printed for W. Blackwood; [etc., etc.]
+- *Tales of my landlord (1st series)* - Walter Scott - Edinburgh, Printed for W. Blackwood and J. Murray
+- *Travels through Canada, and the United States of North America, in the years 1806, 1807, & 1808, 3rd ed* - John Lambert - London, Printed for Baldwin, Cradock, and Joy; Edinburgh, W. Blackwood
 - *A system of physiological botany* - Patrick Keith - London, Printed for Baldwin, Cradock, and Joy ... ; W. Blackwood, Edinburgh; and J. Cumming, Dublin
 - *A Visit to Flanders in July, 1815, 4th ed* - James Simpson - Edinburgh, Printed for William Blackwood; and Oliphant, Waugh & Innes; and Baldwin, Cradock & Joy, London
 - *An Account of the First Edinburgh Musical Festival*
