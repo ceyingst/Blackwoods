@@ -1,3 +1,11 @@
+This repository includes a rough list of books published by William Blackwood, or with Blackwood in the imprint as seller. By rough list, I mean that these are essentially my notes toward what I hope will eventually be a more thorough accounting of the early c19 book publishing of W. Blackwood across his career (c.a. 1790-1834) (with more distant aspirations to add other Edinburgh publishers and printers working in the same period). Since all that may take some time to complete, and I haven't yet found anything else that provides similar information, I thought I'd share my work in progress here for anyone else who may find it useful or otherwise interesting in the meantime.
+
+That said, I share with important caveats: anything here should be cross-referenced with other sources to ensure the accuracy of imprint, date, and any other key information before being used for further research. At present, this working document is largely compiled from records in WorldCat and other individual library OPACS, with as yet little to no cleaning of the data to ensure, e.g., the removal of duplicates, accurate listings of multiple editions, or comprehensiveness of the actual books published, (as opposed to WorldCat's listings of copies held by libraries), etc.
+
+With all that in mind, though, please feel free to use, adapt, etc. these notes however might be useful for you - and, in the meantime, I hope to continue to update this semi-regularly, with the aim of removing at least some of the above caveats in the near future.
+
+NB: entries marked with a dagger (†) are those for which I've seen and made a bibliographical record for at least one physical copy; this is mainly for my own use, but, as noted above, the goal is eventually to make that bibliographical data available as well.
+
 ## 1800
 
 - *The Seasons* - James Thomson - Edinburgh: Printed for Ross & Blackwood by T. Ross & Sons, Parliament Close.
@@ -13,8 +21,8 @@
 
 ## 1802
 
-- * *Illustrations of the Huttonian Theory of the Earth*
-- * *A Comparative View of the Huttonian and Neptunian Systems of Geology* - John Murray - Edinburgh: Printed for Ross and Blackwood, and T.N. Longman and G. Rees, London
+- † *Illustrations of the Huttonian Theory of the Earth*
+- † *A Comparative View of the Huttonian and Neptunian Systems of Geology* - John Murray - Edinburgh: Printed for Ross and Blackwood, and T.N. Longman and G. Rees, London
 - *A Dictionary of the English Language* - Montrose : printed by D. Buchanan, sold by J. Fairbairn, C. Dickson, A. Constable, & Ross & Blackwood, Edinburgh ; J. & A. Duncan, J. & M. Robertson, & J. Gillies, Glasgow ; H. Mozley, Gainsborough ; and Wilson & Spence, York., 1802
 - *A historico-politico-ecclesiastical dissertation on the supremacy of civil powers in matters of religion* - Edinburgh : Ogle & Aikman, (Edinburgh : Printed by J. Pillans and Sons, North College-Street ; Sold by Ogle and Aikman, Ross andBlackwood, and J. Guthrie, Edinburgh ; J. Duncan, M. Ogle, and J. Steel and Co. Glasgow ; J. Fowler, Paisley ; T. Hill, and G. Brown, Perth ; W. Knight, Aberdeen ; R. Ogle, and - Gray, London. 1802)
 - *An introduction to Merchandize* - Edinburgh : Printed by Murray & Cochrane, Craig's Close, for Bell & Bradfute, W. Creech, J. Fairbairn, Arch. Constable, and Ross & Blackwood, Edinburgh ; and W. Coke, Leith., 1802
@@ -168,10 +176,10 @@
 
 ## 1813
 
-- * *A Short account of experiments and instruments, depending on the relations of air to heat and moisture* - Edinburgh: : Printed for William Blackwood, and J. Ballantyne & Co.; and for Longman, Hurst, Rees, Orme, & Brown; and John Murray, London.
-- * *A Treatise on New Philosophical Instruments for Various Purposes in the Arts and Sciences* - Edinburgh: Printed for J. Murray, London and W. Blackwood, Edinburgh
-- * *Essay on the Theory of the Earth* - Edinburgh: Blackwood; London, Murray and R. Baldwin
-- * *Travels in Sweden, During the Autumn of 1812* - London : Printed for Robert Baldwin ... ; Edinburgh : Sold also by William Blackwood, Edinburgh ; Dublin : And John Cumming
+- † *A Short account of experiments and instruments, depending on the relations of air to heat and moisture* - Edinburgh: : Printed for William Blackwood, and J. Ballantyne & Co.; and for Longman, Hurst, Rees, Orme, & Brown; and John Murray, London.
+- † *A Treatise on New Philosophical Instruments for Various Purposes in the Arts and Sciences* - Edinburgh: Printed for J. Murray, London and W. Blackwood, Edinburgh
+- † *Essay on the Theory of the Earth* - Edinburgh: Blackwood; London, Murray and R. Baldwin
+- † *Travels in Sweden, During the Autumn of 1812* - London : Printed for Robert Baldwin ... ; Edinburgh : Sold also by William Blackwood, Edinburgh ; Dublin : And John Cumming
 - *A Critical Account of the life, character, and discourse of Mr Alexander Morus* - Edinburgh : Ogle, (Sold by J. Ogle, W.Blackwood, Dickson & Easton, Edinburgh ; M. Ogle, Brash & Reid, Glasgow ; D. Peat, Perth ; W. Knight, Aberdeen ; J. McLaren, Stirling ; R. Ogle, T. Hamilton, Gale & Co., Paternoster Row, London)
 - *A Layman's account of his faith and practice as a member of the Episcopal Church in Scotland* - Aberdeen : Rivington, (Aberdeen: Printed by D. Chalmers & Co. for F. & C. Rivington, London; W.Blackwood, Edinburgh; and A. Brown, Aberdeen. 1813)
 - *An Inquiry into the nature and extent of poetick license* - London : Printed for John Murray and William Blackwood
@@ -194,8 +202,8 @@
 
 ## 1814
 
-- * *An Attempt to Establish a Pure Scientific System of Mineralogy* - London, Robert Baldwin; Edinburgh, William Blackwood
-- * *Werner's Nomenclature of Colours*, first edition - Edinburgh : Printed by James Ballantyne and Co. for William Blackwood ... John Murray ... and Robert Baldwin
+- † *An Attempt to Establish a Pure Scientific System of Mineralogy* - London, Robert Baldwin; Edinburgh, William Blackwood
+- † *Werner's Nomenclature of Colours*, first edition - Edinburgh : Printed by James Ballantyne and Co. for William Blackwood ... John Murray ... and Robert Baldwin
 - *Books Printed for Robert Baldwin...and William Blackwood* - London? : Robert Baldwin and William Blackwood
 - *Elements of Political Science, vol 1*, vol 2, and vol 3 - Edinburgh For William Blackwood Edinburgh T. Cadell and W. Davies Edinburgh Printed by James Ballantyne and Co
 - *Essay on Genius* - Edinburgh : Printed for William Blackwood; Longman, Hurst, Rees, Orme, and Brown, London; Alex. Brown, and F. Frost, Aberdeen; and John Beattie, Stonehaven, Aberdeen : D. Chalmers, & Co., printers 1
@@ -262,7 +270,7 @@
 
 ## 1817
 
-- * *An Essay on the Variation of the Compass* - William Bain - Edinburgh: Blackwood, Murray, London
+- † *An Essay on the Variation of the Compass* - William Bain - Edinburgh: Blackwood, Murray, London
 - *A Dissertation on weights and measures* - Olinthus Gregory - Baldwin Craddock and Joy ;;William Blackwood London;Edinburgh
 - *A Narrative of the case of Miss Margaret McAvoy* - Thomas Renwick - London, Printed for Baldwin, Cradock, and Joy; Underwood and Blacks; and J. Callow; Liverpool, W. Grapel; Manchester, Constable and Co. and W. Blackwood; Edinburgh, W. Blackwood; Glasgow, A. and J.M. Duncan; Dublin, Cumming
 - *A Practical inquiry into the causes of the frequent failure of the operations of depression* - William Adams - London : Baldwin, Cradock, and Joy : J. Hatchard ; Edinburgh : W. Blackwood ; Dublin : Hodges and McArthur
@@ -324,8 +332,8 @@
 ## 1821
 
 -  *Ayrshire Legatees* - John Galt - Edinburgh: W. Blackwood, T. Cadell
-- * *Elements of the philosophy of plants* - Augustine Candolle - Edinburgh: W. Blackwood, London Cadell
-- * *Werner's Nomenclature of Colours, 2nd ed.* - Edinburgh: W. Blackwood and Cadell
+- † *Elements of the philosophy of plants* - Augustine Candolle - Edinburgh: W. Blackwood, London Cadell
+- † *Werner's Nomenclature of Colours, 2nd ed.* - Edinburgh: W. Blackwood and Cadell
 - *A Geographical and Commercial View of Northern Central Africa* - James MacQueen - Edinburgh: W. Blackwood
 - *A Letter from the king to his people, 20th ed.* - London : Printed for William Sams ... ; Edinburgh : Sold also by W. Blackwood ; Dublin : C. P. Archer
 - *A Letter from the king to his people, 22nd ed.* - London : Printed for William Sams, bookseller to His Royal Highness the Duke of York, No. 1, St. James's Street, sold also by W. Blackwood, Edinburgh; J.P. Archer, Dublin; and all other booksellers in the United Kingdom
