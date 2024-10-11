@@ -5,3 +5,6 @@ This repository includes a rough list of books published by William Blackwood, o
 That said, I share with important caveats: anything here should be cross-referenced with other sources to ensure the accuracy of imprint, date, and any other key information before being used for further research. At present, this working document is largely compiled from records in WorldCat and other individual library OPACS, with as yet little to no cleaning of the data to ensure, e.g., the removal of duplicates, accurate listings of multiple editions, or comprehensiveness of the actual books published, (as opposed to WorldCat's listings of copies held by libraries), etc.
 
 With all that in mind, though, please feel free to use, adapt, etc. these notes however might be useful for you - and, in the meantime, I hope to continue to update this semi-regularly, with the aim of removing at least some of the above caveats in the near future.
+
+
+git clone git@github.com:ceyingst/ceyingst.org.git
