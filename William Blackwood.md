@@ -48,7 +48,7 @@ NB: entries marked with a dagger (†) are those for which I've seen and made a 
 
 ## 1805
 
-- *Jameson, *A treatise on the external characters of minerals* 
+- † Jameson, *A treatise on the external characters of minerals* 
 - *A mineralogical description of the county of Dumfries* - Edinburgh: Printed at the University Press, for Bell and Bradfute, and W. Blackwood; and Longman, Hurst, Reese, and Orme, London
 - *A System of Mineralogy, vol 2* - Edinburgh: Printed for Bell & Bradfute; Guthrie & Tait; and William Blackwood: and for Longman, Hurst, Rees and Orme, London. Printed by A. Neill & Co.
 - *An essay on the best means of civilizing the subjects of the British empire in India* - John Mitchell - Edinburgh: W. Blackwood [etc]
